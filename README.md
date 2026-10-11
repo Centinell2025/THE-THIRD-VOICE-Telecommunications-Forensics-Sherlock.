@@ -67,3 +67,7 @@ Echo, static, dropped calls, unusual audio, routing anomalies, or user suspicion
 The analyst must classify the allegation as **SUPPORTED**, **NOT SUPPORTED**, or **INCONCLUSIVE**, and cite the supplied fictional evidence supporting that determination.
 
 No command recipes are provided to participants. Tool selection and investigative method are part of the forensic challenge.
+
+
+---
+**Ethical and educational use / Uso ético y educativo:** This is a fictional or simulated defensive cybersecurity training exercise. Test only systems you own or are explicitly authorized to assess. / Ejercicio de ciberseguridad defensiva ficticio o simulado. Realice pruebas solo en sistemas propios o con autorización expresa. See / Consulte [Educational Purpose Notice](EDUCATIONAL_PURPOSE_NOTICE.md).
